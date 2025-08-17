@@ -1,5 +1,5 @@
-streamlit>=1.30
-networkx>=2.8,<3.0
-pandas>=1.5,<2.0
-matplotlib>=3.5,<3.7
-Pillow>=9.0
+streamlit
+network
+pandas
+matplotlib
+Pillow
